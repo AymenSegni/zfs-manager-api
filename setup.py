@@ -6,8 +6,8 @@ from setuptools import setup
 setup(
     name="zfs_cluster_deployer",
     version="0",
-    author="Hizaoui Mohamed Abdelkader",
-    author_email="hizaoui.mohamed.abdelkader@gmail.com",
+    author="Aymen Segni",
+    author_email="myemail",
     description="ZFS cluster manager api",
     install_requires=["Flask==0.10.1",
                       "Flask-RESTful==0.3.5",
